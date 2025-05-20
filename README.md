@@ -1,1 +1,1 @@
-# Projeto-A3---Locadora
+Repositório Dedicado para o Desenvolvimento de Projeto(s) Universitário(s)
